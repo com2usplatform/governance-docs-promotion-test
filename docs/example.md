@@ -1,6 +1,6 @@
 # Synthetic counting example
 
-These labels and counts are invented solely for this documentation fixture.
+These labels and counts are invented solely for this documentation fixture. Each count is the number of synthetic shapes with that label.
 
 | Label | Count |
 | --- | --- |
