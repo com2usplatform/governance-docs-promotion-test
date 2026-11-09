@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2 - 2026-11-09
+
+- Show the example total explicitly as 3 + 2 = 5.
+- Preserve the existing labels, counts, and total.
+
 ## 0.1.1 - 2026-11-09
 
 - Clarify that each count describes the number of synthetic shapes with its label.
