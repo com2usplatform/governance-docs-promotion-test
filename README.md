@@ -2,7 +2,7 @@
 
 Canonical repository: https://github.com/com2usplatform/governance-docs-promotion-test
 
-Product: governance · Domain: docs · Version: 0.1.3 · Lifecycle: preparing
+Product: governance · Domain: docs · Version: 0.1.4 · Lifecycle: preparing
 
 This is a synthetic documentation fixture for testing publication controls. It is not a production product, package, SDK, service, or installation guide. It has no production consumers and contains no customer or operational data.
 

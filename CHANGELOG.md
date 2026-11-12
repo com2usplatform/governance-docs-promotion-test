@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.4 - 2026-11-12
+
+- Clarify that the example counts are synthetic illustrations rather than measured data.
+- Preserve the existing labels, counts, total, and public file scope.
+
 ## 0.1.3 - 2026-11-10
 
 - Note that the example table lists labels in descending order of count, one label per row.

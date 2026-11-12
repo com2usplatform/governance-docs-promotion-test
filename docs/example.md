@@ -10,3 +10,5 @@ These labels and counts are invented solely for this documentation fixture. Each
 The total count is 5: 3 blue circles + 2 green squares = 5 synthetic shapes. The labels do not refer to people, customers, systems, accounts, or environments.
 
 The table lists the labels in descending order of count, one label per row.
+
+These counts are illustrative synthetic values, not measurements collected from a real system.
